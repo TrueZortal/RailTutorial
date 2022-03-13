@@ -1,1 +1,1 @@
-# RailTutorial
+# RailsTutorial
